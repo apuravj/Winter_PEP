@@ -255,3 +255,15 @@ The ugly:
 - https://fhur.me/posts/2024/thats-not-an-abstraction
 
 ## Priority Queue
+
+[src code](../../cses/src/collections/PriorityQueueExamples.java)
+
+---
+
+## Leetcode - Convert Sorted Array to Binary Search Tree
+
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+
+[src code](../../cses/src/leetcode/SortedArrayToBST.java)
+
+![explanation](../images/leetcode-0108.svg)
