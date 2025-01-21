@@ -277,3 +277,9 @@ https://leetcode.com/problems/unique-binary-search-trees/description/
 [src code](../../cses/src/leetcode/UniqueBST.java)
 
 ![explanation](../images/leetcode-0096.svg)
+
+---
+
+## Garbage collection
+
+![about GC](../claude/GarbageCollection.md)Garbage Collection, Trees, Priority Queue
