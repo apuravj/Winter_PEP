@@ -87,3 +87,21 @@ Explanation: Machine 1 makes two products, machine 2 makes four products and mac
 ## Array Division
 
 https://cses.fi/problemset/task/1085
+
+[src code](../../code/src/cses/ArrayDivision.java)
+
+![explanation](../images/arrayDivision.svg)
+
+---
+
+## Other problems
+
+https://leetcode.com/problems/subarray-sum-equals-k/description/
+
+https://leetcode.com/problems/trapping-rain-water/description/
+
+Today's problem:
+
+https://leetcode.com/problems/find-eventual-safe-states/description/
+
+---
