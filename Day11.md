@@ -68,7 +68,23 @@ layout: default
 
 ![explanation](../images/recursionTree.svg)
 
-[src code](../../code/src/leetcode/Subsets.java)
+[src code](../../code/src/leetcode/Subsets.java)  
+
+---
+
+## [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description)
+
+![explanation](../images/letterCombos.svg)
+
+[src code](../../code/src/leetcode/LetterCombosOfPhone.java)
+
+---
+
+## [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+
+![explanation](../images/ipAddresses.svg)
+
+[src code](../../code/src/leetcode/RestoreIPAddresses.java)
 
 ---
 
