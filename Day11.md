@@ -88,6 +88,14 @@ layout: default
 
 ---
 
+## Leetcode Daily: [1462. Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/description/?envType=daily-question&envId=2025-01-27)
+
+![explanation](../images/courseSchedule4.svg)
+
+[src code](../../code/src/leetcode/daily/CourseSchedule4.java)
+
+---
+
 ## What is Meet in the Middle?
 
 - **Meet in the Middle** is an algorithmic technique used to optimize problems by dividing them into two smaller subproblems.
@@ -101,3 +109,18 @@ layout: default
 1. **Divide and Conquer**: Split the problem into two smaller subproblems.
 2. **Independent Solving**: Solve each subproblem separately.
 3. **Combining Results**: Merge the results of the two subproblems to get the final solution.
+
+---
+
+### Tomorrow topics
+
+- Bitmasking
+- Meet in the middle
+
+<!-- LeetCode-style Question:
+Given an array of N integers and a target sum X, find if it's possible to select some integers from the array 
+that sum up to X. N can be up to 40, making regular dynamic programming solutions too slow. -->
+
+<!-- LeetCode-style Question:
+Given an array of integers nums with length up to 40, determine if it's possible to partition the array
+into two subsets such that the sums of elements in both subsets are equal. -->
