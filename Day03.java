@@ -1,4 +1,4 @@
-public class Day3 {
+public class Day03 {
     
 }
 
